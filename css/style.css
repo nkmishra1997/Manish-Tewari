@@ -497,6 +497,7 @@ h1, h2, h3, h4, h5,
 /* Blocks */
 .site-blocks-cover {
   background-size: cover;
+  max-width: 100%;
   background-repeat: no-repeat;
   background-position: top;
   background-position: center center; }
